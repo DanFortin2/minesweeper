@@ -158,7 +158,7 @@ class Board {
 }
 
 
-const g = new Game(3,3,s);
+const g = new Game(3,3,1);
 g.playMove(0,0);
 g.playMove(0,1);
 g.playMove(0,2);
